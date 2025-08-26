@@ -1,0 +1,9 @@
+﻿#Common
+requests
+#Server-side
+Flask
+werkzeug
+pandas
+tkcalendar
+matplotlib
+sv-ttk
